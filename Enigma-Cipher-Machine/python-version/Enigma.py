@@ -1,7 +1,3 @@
-#enigma
-NAME = "Lauren McNeill Kayden Block"
-
-#no globals >:(
 nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 #instructions for func -> find num, turn to int, offset, turn to string, add change index to num, add offset, turn to string, continue
